@@ -1,5 +1,5 @@
 # Proy_Ing_Software_1
-Proyecto de Ingenieria de Software
+## Proyecto de Ingenieria de Software
 integrantes: 
 Ferro Alvarez Justino	  151812
 Mollinedo Peña Alvaro Sebastian	  182921
